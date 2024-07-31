@@ -40,8 +40,10 @@ A grouped bar chart is used to compare the number of free and paid applications 
 ![App Screenshot](https://github.com/user-attachments/assets/32f6ff95-df3a-4cb0-afff-8284cce2f96d)
 ## Free vs Paid Apps Downloads Analysis:
 A box plot is used to analyze the distribution of downloads between free and paid applications.
+![App Screenshot](https://github.com/user-attachments/assets/e750cf30-4832-43ae-b546-1806ce1ddcac)
 
-## Free vs Paid Apps Downloads Analysis:
-A box plot is used to analyze the distribution of downloads between free and paid applications.
+## Revenue by app category:
+For paid applications, a box plot visualizes the estimated revenue across different categories.
+![App Screenshot](https://github.com/user-attachments/assets/0c8939f9-8408-475d-b5fd-8c5f12d4f53c)
 
 
