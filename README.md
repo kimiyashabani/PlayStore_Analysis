@@ -26,7 +26,7 @@ The script calculates an estimated revenue for each application by multiplying t
 ## Bar Plot and Scatter Plots Visualization:
 
 - Top Categories: The top 10 categories by number of applications are visualized.
-  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![App Screenshot](https://github.com/user-attachments/assets/a4cf134e-60fe-420f-bc8e-b2031ff9346a)
 - Category Popularity: The total number of installs per category is visualized.
 - Category Concentration: A scatter plot is used to show the relationship between the number of applications in a category and the total installs, indicating market concentration.
 
