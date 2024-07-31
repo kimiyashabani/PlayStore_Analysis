@@ -12,6 +12,7 @@ Identifying and isolating applications with the highest user ratings.
 The dataset is sorted to find the top five largest applications in file size.
 
 ## Data Visualization with Donut Charts
+ ![App Screenshot](https://github.com/user-attachments/assets/1567e4f3-e196-485e-866b-66ff04556598)
 Application content ratings are visualized using a donut chart to show the distribution of ratings.
 
 ## Numeric Type Conversion:
