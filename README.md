@@ -29,8 +29,9 @@ The script calculates an estimated revenue for each application by multiplying t
 - Top Categories: The top 10 categories by number of applications are visualized.
   ![App Screenshot](https://github.com/user-attachments/assets/a4cf134e-60fe-420f-bc8e-b2031ff9346a)
 - Category Popularity: The total number of installs per category is visualized.
+  ![App Screenshot](https://github.com/user-attachments/assets/1a550555-bdc1-43f5-a7d7-e7afa0598afc)
 - Category Concentration: A scatter plot is used to show the relationship between the number of applications in a category and the total installs, indicating market concentration.
-
+  ![App Screenshot](https://github.com/user-attachments/assets/bf56ac53-1014-4920-a8c7-4ac53bf882a8)
 ## Extracting Nested Data:
 The 'Genres' column, which contains multiple genres separated by semicolons, is split and the top genres are visualized.
 
