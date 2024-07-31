@@ -1,5 +1,5 @@
 # Play Store Data Analysis
-This project consists of processing and analyzing a dataset of mobile applications from Google Play Store, leveraging various data cleaning and visualization techniques to derive insights. 
+This project consists of processing and analyzing a dataset of mobile applications from Google Play Store, leveraging various data cleaning and visualization techniques to derive insights. All the visualization are done with https://plotly.com/python/
 
 ## Data Cleaning
 - Deleting unnecessary columns
@@ -33,11 +33,11 @@ The script calculates an estimated revenue for each application by multiplying t
 - Category Concentration: A scatter plot is used to show the relationship between the number of applications in a category and the total installs, indicating market concentration.
   ![App Screenshot](https://github.com/user-attachments/assets/bf56ac53-1014-4920-a8c7-4ac53bf882a8)
 ## Extracting Nested Data:
-The 'Genres' column, which contains multiple genres separated by semicolons, is split and the top genres are visualized.
-
+The 'Genres' column, which contains multiple genres separated by semicolons, is split and the top genres are visualized as follow:
+![App Screenshot](https://github.com/user-attachments/assets/e84f3932-f561-4f20-9aaa-17e6e6259b57)
 ## Analyzing Free vs Paid Apps:
 A grouped bar chart is used to compare the number of free and paid applications across different categories.
-
+![App Screenshot](https://github.com/user-attachments/assets/32f6ff95-df3a-4cb0-afff-8284cce2f96d)
 ## Free vs Paid Apps Downloads Analysis:
 A box plot is used to analyze the distribution of downloads between free and paid applications.
 
