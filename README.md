@@ -1,4 +1,5 @@
 <img width="3467" alt="cover" src="https://github.com/user-attachments/assets/a843032e-2cca-4ca9-9e8a-efd6e412b5c6">
+
 # Play Store Data Analysis
 This project consists of processing and analyzing a dataset of mobile applications from Google Play Store, leveraging various data cleaning and visualization techniques to derive insights. All the visualization are done with https://plotly.com/python/
 
